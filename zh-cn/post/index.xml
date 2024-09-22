@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Sheng的博客</title>
-        <link>http://localhost:1313/zh-cn/post/</link>
+        <link>https://shengt25.github.io/zh-cn/post/</link>
         <description>Recent content in Posts on Sheng的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shengt25.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>第一篇博客</title>
-        <link>http://localhost:1313/zh-cn/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+        <link>https://shengt25.github.io/zh-cn/p/my-first-blog-post/</link>
         <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+        <guid>https://shengt25.github.io/zh-cn/p/my-first-blog-post/</guid>
         <description>&lt;p&gt;问：为什么要建一个自己的博客？🤔&lt;/p&gt;
 &lt;p&gt;答：想找个地方记录学习和想法。&lt;/p&gt;
 &lt;p&gt;作为一个喜欢囤积和备份的人，总想把学习过程以及其中遇到的坑记录下来。并且想着，如果能帮到别人那就更好了。不过已经2024年了，做博客显得有些“复古”，为什么不用其他社交平台呢？一个是情怀，做技术的应该能理解哈哈。还有一个就是安静，写点琐碎的笔记，不用参与到社交平台的纷纷扰扰。&lt;/p&gt;
 &lt;p&gt;同时，作为一个有些完美主义（且文笔不好）的人，开始写博客总是很难：曾不止一次动此念头，开个小头，就都没再继续了。这次也算是“逼迫”自己一把，不管写的是什么，写的怎么样，先做出来再说。至少记录了，以后想要完善也不迟，对吧？而不是永远在准备，考虑细枝末节，打磨，打磨，打磨，放弃。&lt;/p&gt;
 &lt;p&gt;想到前段时间看到过的一个小漫画&lt;a class=&#34;link&#34; href=&#34;https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;[1]&lt;/a&gt;，这正是我所需要学习的心态吧。先有一个能跑通的雏形，然后再迭代吧！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-first-blog-post/Making-sense-of-MVP.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://shengt25.github.io/p/my-first-blog-post/Making-sense-of-MVP.png&#34;
 	width=&#34;609&#34;
 	height=&#34;411&#34;
-	srcset=&#34;http://localhost:1313/p/my-first-blog-post/Making-sense-of-MVP_hu300271335806343853.png 480w, http://localhost:1313/p/my-first-blog-post/Making-sense-of-MVP_hu12202233834946997016.png 1024w&#34;
+	srcset=&#34;https://shengt25.github.io/p/my-first-blog-post/Making-sense-of-MVP_hu300271335806343853.png 480w, https://shengt25.github.io/p/my-first-blog-post/Making-sense-of-MVP_hu12202233834946997016.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Making-sense-of-MVP.jpg&#34;
