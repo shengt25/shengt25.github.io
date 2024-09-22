@@ -2,157 +2,140 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shengt25.github.io/zh-cn/</loc>
+    <loc>http://localhost:1313/zh-cn/</loc>
+    <lastmod>2024-09-22T17:11:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-cn/post/</loc>
+    <lastmod>2024-09-22T17:11:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-cn/categories/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/"
+                href="http://localhost:1313/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/categories/</loc>
+    <loc>http://localhost:1313/zh-cn/page/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/categories/"
+                href="http://localhost:1313/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/p/hello-world/</loc>
+    <loc>http://localhost:1313/zh-cn/tags/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/p/hello-world/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/p/hello-world/"
+                href="http://localhost:1313/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/tags/misc/</loc>
+    <loc>http://localhost:1313/zh-cn/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/tags/misc/"
+                href="http://localhost:1313/p/my-first-blog-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/tags/misc/"
+                href="http://localhost:1313/zh-cn/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/categories/misc/</loc>
+    <loc>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/categories/misc/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/categories/misc/"
+                href="http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/page/</loc>
+    <loc>http://localhost:1313/zh-cn/tags/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shengt25.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/page/"
-                />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/post/</loc>
+    <loc>http://localhost:1313/zh-cn/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shengt25.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/post/"
-                />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/tags/</loc>
+    <loc>http://localhost:1313/zh-cn/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh-cn/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/tags/"
+                href="http://localhost:1313/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/tags/"
+                href="http://localhost:1313/zh-cn/archives/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/about/"
+                href="http://localhost:1313/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>https://shengt25.github.io/zh-cn/archives/</loc>
+    <loc>http://localhost:1313/zh-cn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shengt25.github.io/archives/"
+                href="http://localhost:1313/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/archives/"
-                />
-  </url><url>
-    <loc>https://shengt25.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shengt25.github.io/links/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
-                />
-  </url><url>
-    <loc>https://shengt25.github.io/zh-cn/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shengt25.github.io/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shengt25.github.io/zh-cn/search/"
+                href="http://localhost:1313/zh-cn/search/"
                 />
   </url>
 </urlset>
